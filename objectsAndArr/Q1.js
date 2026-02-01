@@ -15,11 +15,9 @@ for (let key in data){
     for (let num of data[key]){
         
          sum = num + sum;
-
-         result[key]= sum
-
-        
-                    
+            
+        result[key]= sum
+              
     }
 }
 
