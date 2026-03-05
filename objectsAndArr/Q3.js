@@ -16,3 +16,4 @@ console.log(result);
 
 
 //got the logic w help of gpt 
+//checking if ive learned flow of github
